@@ -91,7 +91,7 @@ export default class Post {
         returning *
        `;
         let description = { ...post.description };
-        if (req.body.destinationdescription)
+        if (req.body.description)
           description["description"] = req.body.description;
 
         const newpost = [

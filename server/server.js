@@ -3,7 +3,6 @@ import express from "express";
 import passport from "passport";
 
 import passportConfig from "./config/passport";
-
 import routes from "./routes/routes";
 dotenv.config();
 const app = express();
