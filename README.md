@@ -1,6 +1,6 @@
 ## Setup Instructions
 
-* Create a postgresql instance on [!elephant sql](elephantsql.com)
+* Create a postgresql instance on [elephant sql](elephantsql.com)
 
 * Rename env-sample to .env and replace DATABASE_URL to your database url from elephant sql
 
