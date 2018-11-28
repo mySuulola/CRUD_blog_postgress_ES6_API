@@ -1,0 +1,2 @@
+DATABASE_URL='postgres://tiosohs:9PUMsM-Co1N_JRBKKFKNCDJwWHetgl@tantor.db.elephantsql.com:5432/tiosohs'
+SECRET='blogposts'
