@@ -4,7 +4,7 @@
 
 * Rename env-sample to .env and replace DATABASE_URL to your database url from elephant sql
 
-```example of database url:```
+```example of database url:
 
 url:postgres://username:password@tantor.db.elephantsql.com:5432/username 
 
