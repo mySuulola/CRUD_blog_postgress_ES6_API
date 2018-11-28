@@ -1,12 +1,12 @@
 ## Setup Instructions
 
-[*]Create a postgresql instance on [![elephant sql]](elephantsql.com)
+* Create a postgresql instance on [!elephant sql](elephantsql.com)
 
-[*]Rename env-sample to .env and replace DATABASE_URL to your database url from elephant sql
+* Rename env-sample to .env and replace DATABASE_URL to your database url from elephant sql
 
 ```example of database url:```
 
-```url:postgres://username:password@tantor.db.elephantsql.com:5432/username 
+url:postgres://username:password@tantor.db.elephantsql.com:5432/username 
 
 postgres://tiosohs:9PUMsM-Co1N_JRBKKFKNCDJwWHetgl@tantor.db.elephantsql.com:5432/tiosohs
 
